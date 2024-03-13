@@ -42,6 +42,7 @@
 @keyframes collapse{
   from {
     height: 0;
+    border-bottom: none;
     display: none;
   }
 
@@ -87,6 +88,7 @@
   }
   to {
     height: 0;
+    border-bottom: none;
     display: none;
   }
 }
